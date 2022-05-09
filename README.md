@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá! Bem-vindo a minha paginá do GITHUB 😃
 
 <!--
 **Gilberto-Brambilla-Junior/Gilberto-Brambilla-Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/Gilberto-Brambilla-Junior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilberto-Brambilla-Junior&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Brambilla-Junior&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gilberto-Brambilla-Junior&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gilberto-Brambilla-Junior&layout=compact&langs_count=7&theme=light"/>
 </div>
